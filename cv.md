@@ -14,3 +14,18 @@ An experienced .NET developer with three years of experience creating and develo
 * Basic knowledge: HTML5, CSS3, JavaScript, TypeScript, Angular
 * VCS: Git, SVN
 * Tools: Rider, Visual Studio, Jira, Confluence.
+
+## Code examples
+```
+function multiply(a, b) {
+  return a * b;
+}
+
+```
+You can see my code on the [Github](https://github.com/Gulivero)
+
+## Work Experience
+
+**.NET Developer**, ATLANT  
+*August 2022 – Present*  
+Worked on interface development (data tables, charts, Excel reports) and server-side logic for a corporate portal, with experience working on Oracle and MySQL databases.  
