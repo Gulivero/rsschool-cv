@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Gulivero.github.io/rsschool-cv/cv
