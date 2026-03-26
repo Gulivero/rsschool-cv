@@ -29,3 +29,15 @@ You can see my code on the [Github](https://github.com/Gulivero)
 **.NET Developer**, ATLANT  
 *August 2022 – Present*  
 Worked on interface development (data tables, charts, Excel reports) and server-side logic for a corporate portal, with experience working on Oracle and MySQL databases.  
+
+## Education 
+
+**University**  
+2017-2021: Belarusian State Technological University
+
+**Courses**  
+2022: EPAM - .NET Development
+2022: Itransition - .NET Development 
+
+## English Language
+**English lvl:** B1-B2
